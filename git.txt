@@ -1,2 +1,4 @@
 git演習
 編集
+・git add
+・git commit
